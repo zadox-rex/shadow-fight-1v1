@@ -1,0 +1,6 @@
+{
+  "name": "KAGE: Twilight Duel",
+  "description": "A 3D twilight dojo shadow-fighting web game featuring custom GLSL neon-rim silhouette fighters, 1v1 duels, 3v3 tag-team relays, and live global multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
